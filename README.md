@@ -2,16 +2,16 @@
 
 Un mantra es una palabra sánscrita que se refiere a sonidos (emitidos como sílabas, palabras, fonemas
 o grupos de palabras) que, según algunas creencias, tienen algún poder psicológico o espiritual. Los
-mantras pueden tener o no significado literal o sintáctico. [1] <br/><br/>
+mantras pueden tener o no significado literal o sintáctico.<br/><br/>
 La palabra sánscrita yantra proviene del prefijo yan, que significa concebir y por antonomasia,
 concepción mental. Yantra, pues, significa literalmente “dispositivo”, “artificio”, “mecanismo”,
 “herramienta” o, más preciso aún, “instrumento”. Hace referencia a representaciones geométricas
 complejas de niveles y energías del cosmos (personalizadas bajo la forma de una deidad escogida) y del
-cuerpo humano (en cuanto es concebido como réplica microcósmica del macrocosmos). [2] <br/><br/>
+cuerpo humano (en cuanto es concebido como réplica microcósmica del macrocosmos).<br/><br/>
 Los mandalas son representaciones simbólicas espirituales y rituales del macrocosmos y el
 microcosmos. La universalidad de los mandalas hizo que el psiquiatra Carl Gustav Jung los privilegiara
 como expresiones probables de lo inconsciente colectivo. Para él, el centro del mandala figura al sí-
-mismo (selbst), que el sujeto intenta lograr perfeccionar en el proceso de individuación. [3] <br/><br/>
+mismo (selbst), que el sujeto intenta lograr perfeccionar en el proceso de individuación.<br/><br/>
 Mantra-Yantra-Mandala, como concepción artística, se plantea a sí misma como un “dispositivo” o
 “instrumento” orientado a la meditación del espectador. La propuesta visual de Mantra-Yantra-Mandala
 incorpora la concepción de un mantra, en forma de código: en un lenguaje de programación, que
