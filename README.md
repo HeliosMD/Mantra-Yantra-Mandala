@@ -1,4 +1,4 @@
-#Mantra-Yantra-Mandala
+# Mantra-Yantra-Mandala
 
 Un mantra es una palabra sánscrita que se refiere a sonidos (emitidos como sílabas, palabras, fonemas
 o grupos de palabras) que, según algunas creencias, tienen algún poder psicológico o espiritual. Los
