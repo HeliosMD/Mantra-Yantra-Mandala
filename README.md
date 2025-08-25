@@ -1,34 +1,13 @@
 # Mantra-Yantra-Mandala
 
-Un mantra es una palabra sánscrita que se refiere a sonidos (emitidos como sílabas, palabras, fonemas
-o grupos de palabras) que, según algunas creencias, tienen algún poder psicológico o espiritual. Los
-mantras pueden tener o no significado literal o sintáctico.<br/><br/>
-La palabra sánscrita yantra proviene del prefijo yan, que significa concebir y por antonomasia,
-concepción mental. Yantra, pues, significa literalmente “dispositivo”, “artificio”, “mecanismo”,
-“herramienta” o, más preciso aún, “instrumento”. Hace referencia a representaciones geométricas
-complejas de niveles y energías del cosmos (personalizadas bajo la forma de una deidad escogida) y del
+Un <i>mantra</i> es una palabra sánscrita que se refiere a sonidos (emitidos como sílabas, palabras, fonemas o grupos de palabras) que, según algunas creencias, tienen algún poder psicológico o espiritual. Los mantras pueden tener o no significado literal o sintáctico.<br/><br/>
+
+La palabra sánscrita <i>yantra</i> proviene del prefijo yan, que significa concebir y por antonomasia, concepción mental. Yantra, pues, significa literalmente “dispositivo”, “artificio”, “mecanismo”, “herramienta” o, más preciso aún, “instrumento”. Hace referencia a representaciones geométricas complejas de niveles y energías del cosmos (personalizadas bajo la forma de una deidad escogida) y del
 cuerpo humano (en cuanto es concebido como réplica microcósmica del macrocosmos).<br/><br/>
-Los mandalas son representaciones simbólicas espirituales y rituales del macrocosmos y el
-microcosmos. La universalidad de los mandalas hizo que el psiquiatra Carl Gustav Jung los privilegiara
-como expresiones probables de lo inconsciente colectivo. Para él, el centro del mandala figura al sí-
-mismo (selbst), que el sujeto intenta lograr perfeccionar en el proceso de individuación.<br/><br/>
-Mantra-Yantra-Mandala, como concepción artística, se plantea a sí misma como un “dispositivo” o
-“instrumento” orientado a la meditación del espectador. La propuesta visual de Mantra-Yantra-Mandala
-incorpora la concepción de un mantra, en forma de código: en un lenguaje de programación, que
-genera un yantra, en forma de imagen; a su vez, como mandala, genera una representación simbólica-
-espiritual y ritual del macrocosmos y del microcosmos. En su primera serie, Mantra-Yantra-Mandala I,
-se presenta en forma monocromática, con simetría en el eje horizontal (x) y con simetría en los ejes
-horizontal y vertical (xy). Expone la obra como arte vivo, en el cual la composición, las formas y la
-relación entre sus estructuras se ven condicionadas por el acontecimiento y la modificación por parte de
-la transicionalidad. La obra, como la realidad misma, se sostiene en constante cambio: Cada vez que es
-observada se replantea. El autor incorpora una intensión de integración del yo con el ello a través de la
-psicomancia como proyectora de las pulsiones eros (pulsión sexual) y tántanos (pulsión de muerte). La
-obra carece de sonido. El silencio potencia la proyección de las pulsiones sexual y de muerte.<br/><br/>
-En una primera etapa, el espectador se identifica con la obra, individualizándola, difuminando la
-diferencia entre su persona y la obra como entidad. Se incopora una fase similar a la fase del espejo (le
-state du mirroir, Lacan), en la que todo yo es un otro. En una segunda etapa, la obra trasciende su
-caracter inicial, configurándose en una nubosidad de experiencias subjetivas afianzadas a un eje
-simétrico pseudo-totémico. Su dinamismo inicial se traslada a una dinámica sutil, apenas perceptible,
-aunque siempre presente, donde la saturación del espacio introduce una interpretación cuasi-estática de
-la imagen. La obra se disocia del espectador, tomando identidad propia en su nivel de complejidad. En
-esta etapa se incorpora una fase inversa del espejo, en la que todo otro es un yo.
+
+Los <i>mandalas</i> son representaciones simbólicas espirituales y rituales del macrocosmos y el microcosmos. La universalidad de los mandalas hizo que el psiquiatra Carl Gustav Jung los privilegiara como expresiones probables de lo inconsciente colectivo. Para él, el centro del mandala figura al sí-mismo (selbst), que el sujeto intenta lograr perfeccionar en el proceso de individuación.<br/><br/>
+
+Mantra-Yantra-Mandala, como concepción artística, se plantea a sí misma como un “dispositivo” o “instrumento” orientado a la meditación del espectador. La propuesta visual de Mantra-Yantra-Mandala incorpora la concepción de un mantra, en forma de código: en un lenguaje de programación, que genera un yantra, en forma de imagen; a su vez, como mandala, genera una representación simbólica-espiritual y ritual del macrocosmos y del microcosmos. En su primera serie, Mantra-Yantra-Mandala I, se presenta en forma monocromática, con simetría en el eje horizontal (x) y con simetría en los ejes horizontal y vertical (xy). Expone la obra como arte vivo, en el cual la composición, las formas y la relación entre sus estructuras se ven condicionadas por el acontecimiento y la modificación por parte de la transicionalidad. La obra, como la realidad misma, se sostiene en constante cambio: Cada vez que es observada se replantea. El autor incorpora una intensión de integración del yo con el ello a través de la
+psicomancia como proyectora de las pulsiones eros (pulsión sexual) y tántanos (pulsión de muerte). La obra carece de sonido. El silencio potencia la proyección de las pulsiones sexual y de muerte.<br/><br/>
+
+En una primera etapa, el espectador se identifica con la obra, individualizándola, difuminando la diferencia entre su persona y la obra como entidad. Se incopora una fase similar a la fase del espejo (<i>le state du mirroir</i>, Lacan), en la que todo yo es un otro. En una segunda etapa, la obra trasciende su caracter inicial, configurándose en una nubosidad de experiencias subjetivas afianzadas a un eje simétrico pseudo-totémico. Su dinamismo inicial se traslada a una dinámica sutil, apenas perceptible, aunque siempre presente, donde la saturación del espacio introduce una interpretación cuasi-estática de la imagen. La obra se disocia del espectador, tomando identidad propia en su nivel de complejidad. En esta etapa se incorpora una fase inversa del espejo, en la que todo otro es un yo.
